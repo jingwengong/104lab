@@ -1,7 +1,8 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-	std::cout << "Fight on!" << std::endl;
+	cout << "Fight on! " << endl;
 	return 0;
 }
